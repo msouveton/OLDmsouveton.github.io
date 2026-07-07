@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Mon nom est Mahé Souveton, je suis diplôme ingénieur, spécialiste de mécanique des fluides et doctorant à l'institut Pprime en physique théorique. J'étudie la propagation du rayonnement dans des milieux fibreux via l'équation de transfert radiatif classique et les équations de Maxwell.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
