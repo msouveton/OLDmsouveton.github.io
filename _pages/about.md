@@ -1,6 +1,6 @@
 ---
 layout: about
-title: A propos
+title: À propos
 permalink: /
 subtitle:
 
@@ -18,10 +18,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 Bienvenue sur mon site web ! Mon nom est Mahé Souveton, je suis diplômé ingénieur avec une spécialisation en mécanique des fluides et doctorant à l'institut Pprime en physique théorique. J'étudie la propagation du rayonnement dans des milieux fibreux via l'équation classique de transfert radiatif et les équations de Maxwell de l'électromagnétisme. J'ai pu démontrer des résultats analytiques de morphologie d'empilement de cylindres. J'ai également montré que le comportement naturel "Béérien" d'un milieu n'était pas forcément vrai et ai mis en place un modèle "non Béériené.
 
