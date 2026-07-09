@@ -13,7 +13,7 @@ cv:
       username: Mahé Souveton
 
   sections:
-    Education:
+    Éducation:
       - institution: CPGE Claude Fauriel
         location: Saint-Etienne, France
         area: Mathématiques et Physique
@@ -26,7 +26,7 @@ cv:
         start_date: 2019
         end_date: 2022
 
-    Experience:
+    Expérience:
       - company: Université de Lund
         position: Stagiaire de recherche
         location: Lund, Suède
@@ -55,7 +55,7 @@ cv:
         end_date: 2027
         summary: Etude des effets collectifs d'interaction rayonneemnt-matière dans des milieux poreux dont les hétérogénéités sont du même ordre de grandeur que la longueur d'onde.
 
-    Awards:
+    Récompenses:
       - title: Meilleur présentation orale de travaux de thèse
         authors:
         date: 2024-11-05
@@ -89,13 +89,13 @@ cv:
         url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-    Skills:
+    Compétences:
       - name: Physics
         level: Master
         icon: fa-solid fa-hashtag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Languages:
+    Langues:
       - name: Français
         summary: "Langue maternelle"
 
@@ -110,7 +110,7 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
+    Diplômes:
       - name: Baccalauréat Scientifique
         date: 2017-08-01
         issuer: Lycée François Mauriac
